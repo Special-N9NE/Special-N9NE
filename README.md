@@ -10,7 +10,7 @@
 ![Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Special-N9ne&theme=github_dark)
 
 
-![Github streak](	https://github-readme-streak-stats.herokuapp.com/?user=Special-N9ne&theme=github_dark)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Special-N9NE/Special-N9NE/dist/github-contribution-grid-snake.gif)
 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Special-N9ne&theme=dark)
